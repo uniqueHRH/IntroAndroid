@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email 을 입력해주세요</string>
+    <string name="prompt_password">Password 를 입력해주세요</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"환영합니다"</string>
+    <string name="invalid_username">Email 을 확인해주세요</string>
+    <string name="invalid_password">Password 는 다섯글자 이상입니다</string>
+    <string name="login_failed">"로그인 실패"</string>
+    <string name="title_activity_main">Home</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
